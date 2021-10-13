@@ -6,6 +6,6 @@
     "start": "node .output/server"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "^3.0.0-27234503.d5127e9"
   }
 }
